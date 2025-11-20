@@ -8,6 +8,10 @@
   box-sizing: border-box;
 }
 
+html {
+  height: 100vh;
+}
+
 body {
   background-image: url("../img/image.png");
   background-size: cover;
@@ -94,7 +98,7 @@ select {
   margin-top: 1rem;
 }
 
-/* Todo tooblar */
+/* Todo toolbar */
 
 #toolbar {
   padding: 1rem;
@@ -162,5 +166,3 @@ select {
   text-decoration: line-through;
   font-style: italic;
 }
-
-
